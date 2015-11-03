@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Changes #2
+=======
+Changes 1
+>>>>>>> master
